@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Business process modeling/Analyze data to identify trends**
 
-- 💬 Ask me about **Data Virtualization, Business Correspondence**
+- 💬 Ask me about **Data Visualization/Business Correspondence**
 
 - 📫 How to reach me **adewumidaniel2013@gmail.com**
 
