@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Adewunmi Daniel Oduleye</h1>
 <h3 align="center">A passionate Business/Data Analyst from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP._AmhJYfSYxsTiLhl12qv6wHaFj?rs=1&pid=ImgDetMain">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adewumidaniel&label=Profile%20views&color=0e75b6&style=flat" alt="adewumidaniel" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adewumidaniel" alt="adewumidaniel" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/oduleydaniel" target="blank"><img src="https://img.shields.io/twitter/follow/oduleydaniel?logo=twitter&style=for-the-badge" alt="oduleydaniel" /></a> </p>
